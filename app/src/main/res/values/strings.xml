@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FSM Alarm</string>
+    <string name="unlockx2_btn">UNLOCKx2</string>
+    <string name="lockx2_btn">LOCKx2</string>
+    <string name="unlock_btn">UNLOCK</string>
+    <string name="lock_btn">LOCK</string>
+</resources>
