@@ -4,7 +4,7 @@ import android.widget.TextView;
 
 
 import com.example.aveva.fsmalarm.BuildConfig;
-import com.example.aveva.fsmalarm.MainActivity;
+import com.example.aveva.fsmalarm.activities.MainActivity;
 import com.example.aveva.fsmalarm.R;
 
 

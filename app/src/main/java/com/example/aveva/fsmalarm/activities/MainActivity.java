@@ -1,4 +1,4 @@
-package com.example.aveva.fsmalarm;
+package com.example.aveva.fsmalarm.activities;
 
 import android.content.Context;
 import android.support.v7.app.AppCompatActivity;
@@ -8,6 +8,7 @@ import android.widget.Button;
 import android.widget.Switch;
 import android.widget.TextView;
 
+import com.example.aveva.fsmalarm.R;
 import com.example.aveva.fsmalarm.presenters.MainPresenter;
 import com.example.aveva.fsmalarm.views.MainView;
 
